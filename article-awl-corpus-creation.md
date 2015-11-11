@@ -17,7 +17,7 @@ Hello digital humanists, applied linguists, and corpus buffs!  This page documen
 <dd><a href="#corplist">creating a corpus from a long list</a></dd>
 <dd><a href="#info">dealing with extraneous info & creating a merged corpora</a></dd>
 <dd><a href="#vis">creating a visualization</a></dd>
-<dd><a href="#conclude">some concluding thoughts and useful links/references</a></dd></dl></p> 
+<dd><a href="#conclude">some concluding thoughts</a></dd></dl></p> 
 
 For highly experienced users, do forgive an over-indulgence on explanations and screenshots given that this is designed for any, even people who are complete newbs \(as was the case for ourselves during this trial run\).
 
